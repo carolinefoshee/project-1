@@ -5,7 +5,7 @@ TEAM MEMBERS: Caroline Foshee, Christian Zaner, Sivangi Raychoudhury
 We have been given a task of finding a good dataset for our project and do further calculations and analysis on that dataset. For this purpose we decided to use Kaggel.com and found the dataset of our interest. The link to our dataset .csv file is https://www.kaggle.com/datasets/mirichoi0218/insurance 
 
 PROJECT OBJECTIVE: 
-The main aim of this project is to predict medical costs charged by health insurance companies based on various factors and also to analyse how these factors are related to the medical charges. Here the independent features are age, gender, body mass index (BMI), number of children, smoking status and region. The dependent feature is medical costs charged by insurance company which is labelled as charges. We reaised the following questions from the dataset, which was our aim.
+The main aim of this project is to predict medical costs charged by health insurance companies based on various factors and also to analyse how these factors are related to the medical charges. Here the independent features are age, gender, body mass index (BMI), number of children, smoking status and region. The dependent feature is medical costs charged by insurance company which is labelled as charges. We raised the following questions from the dataset.
 1. Which independent variables are correlated with each other?
 2. Which factors influence insurance cost the most?
 3. Why these factors influence the insurance cost? 
@@ -24,7 +24,7 @@ The next step was to find the relationship between the independent variables. Th
 4. Gender and BMI
 
 STEP 4:
-The relationship between the independent variables and dependent variable was calculated and to what degree they affect the insuarnce cost was determined. For this purpose the following plots were graphed,
+The relationship between the independent variables and dependent variable was calculated and to what degree they affect the insurance cost was determined. For this purpose the following plots were graphed,
 1. BMI Vs Insurance cost (For Smokers and Non-Smokers)
 2. Age Vs Insurance cost (For Smokers and Non-Smokers)
 3. Smoking Vs Insurance cost
